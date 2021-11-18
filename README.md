@@ -14,9 +14,9 @@ I will follow the rest pattern, I will create a semantic API with get, post, put
 
 
 Rest with Node Js: API with  Express and MySQL 
-How to create REST API
-Using MySQL to save our data
-Using Express to create a server
-Learning to manipulate dates with MomentJS
-Validating data before submitting to database
-Sending descriptive errors to  user
+How to create REST API,
+Using MySQL to save  data,
+Using Express to create a server,
+Learning to manipulate dates with MomentJS,
+Validating data before submitting to database,
+Sending descriptive errors to  user.
